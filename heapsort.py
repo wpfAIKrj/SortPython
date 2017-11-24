@@ -29,7 +29,7 @@ def main():
 	#主函数
 	numbers = [23, 12, 9, 15,6,45,76,84,13,24]
 	heapSort(numbers)
-	print(numbers)
+	
 
 if __name__ == '__main__':
 	main()		
